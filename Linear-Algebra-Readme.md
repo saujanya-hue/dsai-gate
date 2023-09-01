@@ -29,6 +29,7 @@ Explore these recommended books to enhance your understanding :
 
 Course to deepen your knowledge:
 
+- [**"OCW MIT : Linear Algebra by Gilbert Strang"**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/) : Linear Algebra Course MIT
 - [**"Linear Algebra Course at Khan Acadmey"**](https://www.khanacademy.org/math/linear-algebra) : Khan Academy Course 
 
 ---
@@ -40,11 +41,19 @@ Review these comprehensive notes to reinforce your grasp :
 - [**Short Notes Linear Algebra by Prof. Gilbert Strang**](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/13c014d45cb504519389d6640e673ba4_ZoomNotes_18-010.pdf)
 ZOOMNOTES FOR LINEAR ALGEBRA : GILBERT STRANG Massachusetts Institute of Technology
 
+
+- **[Linear Algebra Review for Machine Learning ](https://www.cse.iitd.ac.in/~parags/teaching/col774/review/linalg.pdf)**
+  From COL774: Machine Learning (IIT D) by Prof. [Parag Singla](https://www.cse.iitd.ac.in/~parags/teaching.html)
+
+
+
 ---
 
 ## <a name="articles"></a>Articles
 
 Read insightful articles  to gain additional insights:
+
+- [**Linear Algebra Important Points on Gate Overflow**](https://gateoverflow.in/blog/8877/linear-algebra-important-points)
 
 ---
 
@@ -53,6 +62,7 @@ Read insightful articles  to gain additional insights:
 Test your knowledge and skills with these practice problems:
 
 - [**Previous Years GATE Linear Algebra Problems**](https://www.geeksforgeeks.org/linear-algebra-gq/) : Geeks for Geeks
+- 
 
 ---
 
