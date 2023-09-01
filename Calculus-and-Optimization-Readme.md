@@ -23,8 +23,9 @@ Explore these recommended books to enhance your understanding :
 - [**"All of Statistics: A Concise Course in Statistical Inference"**](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by  Larry Wasserman 
   A comprehensive resource for statistical theory and its applications.
 -->
+- [**"Calculus Online Textbook"**](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) by  Prof. Gilbert Strang (MIT)
+Corresponding course page [**Calculus Course MIT**](https://ocw.mit.edu/courses/res-18-001-calculus-online-textbook-spring-2005/pages/textbook/)
 
-- [**"Calculus Online Textbook"**](https://ocw.mit.edu/courses/res-18-001-calculus-online-textbook-spring-2005/pages/textbook/) by  Gilbert Strang
 - [**"Convex Optimization"**](https://web.stanford.edu/~boyd/cvxbook/) by Stephen Boyd and Lieven Vandenberghe
   
 ---
