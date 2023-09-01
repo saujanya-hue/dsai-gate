@@ -24,6 +24,8 @@ Explore these recommended books to enhance your understanding of Probability and
 
 Course to deepen your knowledge of Probability and Statistics:
 
+- [**"Linear Algebra Course at Khan Acadmey"**](https://www.khanacademy.org/math/linear-algebra) : Khan Academy Course 
+
 ---
 
 ## <a name="notes"></a>Notes
@@ -41,6 +43,8 @@ Read insightful articles on Probability and Statistics to gain additional insigh
 ## <a name="practice-problems"></a>Practice Problems
 
 Test your knowledge and skills with these practice problems:
+
+- [**Previous Years GATE Linear Algebra Problems**](https://www.geeksforgeeks.org/linear-algebra-gq/) : Geeks for Geeks
 
 ---
 
