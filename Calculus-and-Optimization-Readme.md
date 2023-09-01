@@ -55,7 +55,7 @@ Review these comprehensive notes to reinforce your grasp of Probability and Stat
 
 Read insightful articles on Probability and Statistics to gain additional insights:
 
-[**"Khan academy calculus"**](https://www.khanacademy.org/math/calculus-all-old) 
+[**"Khan Academy Caculus"**](https://www.khanacademy.org/math/calculus-all-old) 
   A comprehensive resource for calculus theory and its applications.
   
 ---
@@ -66,8 +66,8 @@ Test your knowledge and skills with these practice problems:
 
 - [**NOC:Essential Mathematics for Machine Learning, IIT Roorkee**](https://archive.nptel.ac.in/content/storage2/courses/downloads_new/111107137/noc20_ma35_assignment_Week_5.pdf) Week 5 and Week 6 Assignments of the course.
 
-- [**Paul's Online Notes Practice Problems**](https://tutorial.math.lamar.edu/problems/calci/optimization.aspx) Optimization.
-
+- [**Paul's Online Notes Practice Problems**](https://tutorial.math.lamar.edu/problems/calci/optimization.aspx) simple Optimization problems with solutions.
+- [**Khan Academy Caculus Problems**](https://www.khanacademy.org/math/ap-calculus-ab)
 ---
 
 #### <a name="table-of-contents"></a>Table of Contents
