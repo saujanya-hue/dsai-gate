@@ -17,7 +17,7 @@
 
 ## <a name="books"></a>Books
 
-Explore these recommended books to enhance your understanding of Probability and Statistics:
+Explore these recommended books to enhance your understanding :
 
 <!--
 - [**"All of Statistics: A Concise Course in Statistical Inference"**](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by  Larry Wasserman 
@@ -31,7 +31,7 @@ Explore these recommended books to enhance your understanding of Probability and
 
 ## <a name="course"></a>NPTEL and MOOCs Courses
 
-Course to deepen your knowledge of Probability and Statistics:
+Course to deepen your knowledge:
 
 - [**"IITM NPTEL Course: Data Science for Engineers"**](https://www.youtube.com/watch?v=LpamajnMpZY&ab_channel=NPTEL-NOCIITM)  Single Variablle Optimization for Data Science
 - [**" NPTEL Course:Optimization for Machine Learning"**](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-pmLzCoMu_ANU6atEFyyJl) Optimisation for Machine Learning: Theory and Implementation (Hindi)
@@ -41,7 +41,7 @@ Course to deepen your knowledge of Probability and Statistics:
 
 ## <a name="notes"></a>Notes
 
-Review these comprehensive notes to reinforce your grasp of Probability and Statistics:
+Review these comprehensive notes to reinforce your grasp :
 
 
 
@@ -53,7 +53,7 @@ Review these comprehensive notes to reinforce your grasp of Probability and Stat
 
 ## <a name="articles"></a>Articles
 
-Read insightful articles on Probability and Statistics to gain additional insights:
+Read insightful articles to gain additional insights:
 
 [**"Khan Academy Caculus"**](https://www.khanacademy.org/math/calculus-all-old) 
   A comprehensive resource for calculus theory and its applications.
