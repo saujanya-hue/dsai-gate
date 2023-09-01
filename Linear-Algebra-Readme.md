@@ -12,7 +12,10 @@
 
 ## <a name="books"></a>Books
 
-Explore these recommended books to enhance your understanding of Probability and Statistics:
+Explore these recommended books to enhance your understanding :
+
+- [**"Linear Algebra Done Right, Second Edition"**](https://www.cin.ufpe.br/~jrsl/Books/Linear%20Algebra%20Done%20Right%20-%20Sheldon%20Axler.pdf) by Sheldon Axler
+  A comprehensive resource for statistical theory and its applications.
 
 <!--
 - [**"All of Statistics: A Concise Course in Statistical Inference"**](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by  Larry Wasserman 
@@ -22,7 +25,7 @@ Explore these recommended books to enhance your understanding of Probability and
 
 ## <a name="course"></a>NPTEL and MOOCs Courses
 
-Course to deepen your knowledge of Probability and Statistics:
+Course to deepen your knowledge:
 
 - [**"Linear Algebra Course at Khan Acadmey"**](https://www.khanacademy.org/math/linear-algebra) : Khan Academy Course 
 
@@ -30,13 +33,13 @@ Course to deepen your knowledge of Probability and Statistics:
 
 ## <a name="notes"></a>Notes
 
-Review these comprehensive notes to reinforce your grasp of Probability and Statistics:
+Review these comprehensive notes to reinforce your grasp :
 
 ---
 
 ## <a name="articles"></a>Articles
 
-Read insightful articles on Probability and Statistics to gain additional insights:
+Read insightful articles  to gain additional insights:
 
 ---
 
