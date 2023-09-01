@@ -66,6 +66,7 @@ Test your knowledge and skills with these practice problems:
 
 - [**NOC:Essential Mathematics for Machine Learning, IIT Roorkee**](https://archive.nptel.ac.in/content/storage2/courses/downloads_new/111107137/noc20_ma35_assignment_Week_5.pdf) Week 5 and Week 6 Assignments of the course.
 
+- [**Paul's Online Notes Practice Problems**](https://tutorial.math.lamar.edu/problems/calci/optimization.aspx) Optimization.
 
 ---
 
