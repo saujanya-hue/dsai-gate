@@ -7,7 +7,6 @@
 * [Articles](#articles)  
 * [Practice Problems](#practice-problems)
 
-
 ---
 
 ## <a name="books"></a>Books
@@ -51,6 +50,9 @@ Repository contains the pdf notes :[download_here](/Data/Machine-Learning/main_n
 
 Read insightful articles to gain additional insights:
 
+**Coding Examples** : [**Kevin Murphy : A Probabilistic Perspective Book Coding Examples**](https://github.com/probml/pyprobml/tree/master)\
+Python 3 code to reproduce the figures in the books [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) (aka "book 1") and [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) (aka "book 2"). The code uses the standard Python libraries, such as numpy, scipy, matplotlib, sklearn, etc.
+
 ---
 
 ## <a name="practice-problems"></a>Practice Problems
@@ -58,6 +60,9 @@ Read insightful articles to gain additional insights:
 Test your knowledge and skills with these practice problems:
 
 ---
+
+[<img src="https://github.com/trekhleb/homemade-machine-learning/blob/master/images/machine-learning-map.png">](https://github.com/trekhleb/homemade-machine-learning/blob/master/images/machine-learning-map.png)
+Machine Learning Mind Map
 
 #### <a name="table-of-contents"></a>Table of Contents
 
