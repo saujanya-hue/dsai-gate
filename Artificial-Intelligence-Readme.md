@@ -12,12 +12,15 @@
 
 ## <a name="books"></a>Books
 
-Explore these recommended books to enhance your understanding of Probability and Statistics:
+Explore these recommended books to enhance your understanding:
 
 <!--
 - [**"All of Statistics: A Concise Course in Statistical Inference"**](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by  Larry Wasserman 
   A comprehensive resource for statistical theory and its applications.
 -->
+
+- [**"Artificial Intelligence: A Modern Approach, 4th Ed"**](http://aima.cs.berkeley.edu/) by  by Stuart Russell and Peter Norvig
+  A comprehensive resource for AI theory and its applications.
 ---
 
 ## <a name="course"></a>NPTEL and MOOCs Courses
@@ -36,13 +39,16 @@ by Prof. Rohan Paul. The course covers the foundational principles of artificial
 
 ## <a name="notes"></a>Notes
 
-Review these comprehensive notes to reinforce your grasp of Probability and Statistics:
+Review these comprehensive notes to reinforce your grasp :
 
 ---
 
 ## <a name="articles"></a>Articles
 
-Read insightful articles on Probability and Statistics to gain additional insights:
+Read insightful articles to gain additional insights:
+
+- CODING EXAMPLES : [**"Python Code for Artificial Intelligence: A Modern Approach, 4th Ed"**](https://github.com/aimacode/aima-python) by  by Stuart Russell and Peter Norvig
+ You can use this in conjunction with a course on AI, or for study on your own.
 
 ---
 
