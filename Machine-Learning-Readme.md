@@ -28,6 +28,8 @@ Explore these recommended books to enhance your understanding:
 - [**Machine Learning: A Probabilistic Perspective**](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf) by Kevin P. Murphy\
   A comprehensive resource for ML theory and its applications. Perfect for GATE and Interviews
 
+ - [**Learning from Data**](https://openeclass.panteion.gr/modules/document/file.php/PMS152/LEARNING/Abu-Mostafa%20Yaser%20S.%2C%20Malik%20Magdon-Ismail%2C%20Hsuan-Tien%20Lin%20%282012%29%20--%20Learning%20From%20Data_%20A%20short%20course.pdf) course book for IIT D undergraduate level ML course
+
 - [**Machine Learning Book**](http://www.cs.cmu.edu/~tom/mlbook.html) by  Tom M. Mitchell (CMU)\
   A classical book for Machine Learning.
 ---
@@ -40,7 +42,10 @@ Course to deepen your knowledge:
   A comprehensive resource for ML theory, excellent coverage from GATE and Interviews perspective.
 
 - [**"Stanford CS229: Machine Learning Full Course taught by Andrew Ng"**](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&ab_channel=StanfordOnline) by  Prof Andrew NG (Stanford) \
-This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); 
+This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice);
+
+- [**Learning from Data: Caltech course Lectures**](https://home.work.caltech.edu/telecourse.html) \
+This is an introductory course in machine learning (ML) that covers the basic theory, algorithms, and applications. ML is a key technology in Big Data, and in many financial, medical, commercial, and scientific applications. || **[NTU MOOC : Learning from Data](https://www.csie.ntu.edu.tw/~htlin/mooc/)**
 ---
 
 ## <a name="notes"></a>Notes
@@ -67,6 +72,7 @@ Python 3 code to reproduce the figures in the books [Probabilistic Machine Learn
 Test your knowledge and skills with these practice problems:
 
 - **[Berkley CS 189 Machine Learning Previous Year Questions and Solutions](https://tbp.berkeley.edu/courses/cs/189/)**
+- **[Learning from Data Homework Caltech: MCQ Questions and Solutions](https://home.work.caltech.edu/homeworks.html)**
 
 
 - [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2017 Final](/Data/Machine-Learning/final2017_solutions.pdf)
