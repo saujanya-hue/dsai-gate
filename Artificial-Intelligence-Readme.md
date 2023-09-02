@@ -10,7 +10,7 @@
 
 ### The only Artificial-Intelligence cheatsheet that you''ll ever need
 
-[<img src="Data/Probability-Statistics/stat_cheatsheet.png">](#/Data/Artificial-Intelligence/All_cheat_sheet.pdf)
+[<img src="Data/Artificial-Intelligence/AI_Cheat_Sheet.png">](#/Data/Artificial-Intelligence/All_cheat_sheet.pdf)
 > [Download Full Pdf](#/Data/Artificial-Intelligence/All_cheat_sheet.pdf)
  
 Credits : [Stanford CS211](https://stanford-cs221.github.io/summer2023/) - Afshine Amidi and Shervine Amidi published on September 8, 2019
