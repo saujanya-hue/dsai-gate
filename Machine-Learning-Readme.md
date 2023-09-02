@@ -18,6 +18,12 @@ Explore these recommended books to enhance your understanding:
 - [**"All of Statistics: A Concise Course in Statistical Inference"**](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by  Larry Wasserman 
   A comprehensive resource for statistical theory and its applications.
 -->
+
+- [**Machine Learning: A Probabilistic Perspective**](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf) by Kevin P. Murphy
+  A comprehensive resource for ML theory and its applications. Perfect for GATE and Interviews
+
+- [**"Machine Learning "**](http://www.cs.cmu.edu/~tom/mlbook.html) by  Tom M. Mitchell (CMU)
+  A classical book for Machine Learning.
 ---
 
 ## <a name="course"></a>NPTEL and MOOCs Courses
