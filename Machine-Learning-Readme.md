@@ -19,10 +19,10 @@ Explore these recommended books to enhance your understanding:
   A comprehensive resource for statistical theory and its applications.
 -->
 
-- [**Machine Learning: A Probabilistic Perspective**](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf) by Kevin P. Murphy
+- [**Machine Learning: A Probabilistic Perspective**](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf) by Kevin P. Murphy\
   A comprehensive resource for ML theory and its applications. Perfect for GATE and Interviews
 
-- [**"Machine Learning "**](http://www.cs.cmu.edu/~tom/mlbook.html) by  Tom M. Mitchell (CMU)
+- [**"Machine Learning "**](http://www.cs.cmu.edu/~tom/mlbook.html) by  Tom M. Mitchell (CMU)\
   A classical book for Machine Learning.
 ---
 
