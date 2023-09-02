@@ -7,6 +7,13 @@
 * [Articles](#articles)  
 * [Practice Problems](#practice-problems)
 
+
+
+[<img src="/Data/Machine-Learning/Machine_Learning_Cheatsheet.png">](/Data/Artificial-Intelligence/All_cheat_sheet.pdf)
+> [Download Full Pdf](/Data/Artificial-Intelligence/All_cheat_sheet.pdf)
+ 
+Credits : [Stanford Cheatsheets: Machine Learning, AI, Probability Statistics, Deep Learning](https://stanford.edu/~shervine/teaching/) - Afshine Amidi and Shervine Amidi published on September 8, 2019
+
 ---
 
 ## <a name="books"></a>Books
