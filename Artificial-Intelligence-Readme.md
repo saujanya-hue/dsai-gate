@@ -26,13 +26,16 @@ Explore these recommended books to enhance your understanding:
 ## <a name="course"></a>NPTEL and MOOCs Courses
 The Recommended NPTEL-Based Courses for Artificial Intelligence
 
-**[An Introduction to Artificial Intelligence, IIT Delhi](https://nptel.ac.in/courses/106102220)**
+- **[An Introduction to Artificial Intelligence, IIT Delhi](https://nptel.ac.in/courses/106102220)**
 by Professor Mausam. The Course given covers almost everything. However, the course contents may be out of order. For example, CSP is in module 5, yet it isn't represented in the syllabus, but module 6 is in the syllabus, according to Gate. The Assignments are uploaded to the site linked above under the downloads tab and can be attempted. The course is one of the best courses in India in machine learning.
 
-**[Fundamentals of Artificial Intelligence, IIT Guwahti](https://www.youtube.com/playlist?list=PLwdnzlV3ogoXaceHrrFVZCJKbm_laSHcH)**
+- **[UC Berkley  CS 188: Artificial Intelligence](https://www.youtube.com/watch?v=16Dir4QqCUg&ab_channel=WebcastDepartmental)**; This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision-theoretic modeling paradigm. \
+ **Slides** : **[Course Website for CS 188 taught by Prof. Peter Abeel](https://inst.eecs.berkeley.edu/~cs188/fa18/)**
+
+- **[Fundamentals of Artificial Intelligence, IIT Guwahti](https://www.youtube.com/playlist?list=PLwdnzlV3ogoXaceHrrFVZCJKbm_laSHcH)**
 The course is visibly more structured and a good course that can be used to prepare for the GATE Topics in Data Science and AI. The course even goes beyond the mere AI Topics that are in the syllabus, for example it touches on machine learning topics too
 
-**[Slides of "An Introduction to Artificial Intelligence Course, IIT Delhi" : Prof. Rohan Paul ](https://www.cse.iitd.ac.in/~rohanpaul/teaching/2022-col333.html)**
+- **[Slides of "An Introduction to Artificial Intelligence Course, IIT Delhi" : Prof. Rohan Paul ](https://www.cse.iitd.ac.in/~rohanpaul/teaching/2022-col333.html)**
 by Prof. Rohan Paul. The course covers the foundational principles of artificial intelligence and is centered around the following themes: intelligent agents and AI, problem solving by search, constraint satisfaction, adversarial search, planning, probabilistic reasoning, decision-making under uncertainty, deep learning, reinforcement learning and applications. 
 
 ---
@@ -49,12 +52,16 @@ Read insightful articles to gain additional insights:
 
 - **Coding Examples** : [**"Python Code for Artificial Intelligence: A Modern Approach, 4th Ed"**](https://github.com/aimacode/aima-python) by  by Stuart Russell and Peter Norvig
  You can use this in conjunction with a course on AI, or for study on your own.
+- [**Practice Exercises : Student Handouts**](http://ai.berkeley.edu/section_handouts.html) **[UC Berkley  CS 188: Artificial Intelligence]** : In the offering of CS188, they have weekly discussion sections in which they review the material covered for that week. Sectional handouts are good practice exercises for students.
 
 ---
 
 ## <a name="practice-problems"></a>Practice Problems
 
 Test your knowledge and skills with these practice problems:
+
+- Previous year UGC NET CSE Questions - AI Topic
+- [**Practice Exercises: Previous year questions CS 188 with solutions to validate theoretical understanding**](https://inst.eecs.berkeley.edu/~cs188/fa18/final_exam_prep.html)
 
 ---
 
