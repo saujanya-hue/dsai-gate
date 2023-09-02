@@ -36,13 +36,20 @@ by Professor Mausam. The Course given covers almost everything. However, the cou
 The course is visibly more structured and a good course that can be used to prepare for the GATE Topics in Data Science and AI. The course even goes beyond the mere AI Topics that are in the syllabus, for example it touches on machine learning topics too
 
 - **[Slides of "An Introduction to Artificial Intelligence Course, IIT Delhi" : Prof. Rohan Paul ](https://www.cse.iitd.ac.in/~rohanpaul/teaching/2022-col333.html)**
-by Prof. Rohan Paul. The course covers the foundational principles of artificial intelligence and is centered around the following themes: intelligent agents and AI, problem solving by search, constraint satisfaction, adversarial search, planning, probabilistic reasoning, decision-making under uncertainty, deep learning, reinforcement learning and applications. 
+by Prof. Rohan Paul. The course covers the foundational principles of artificial intelligence and is centered around the following themes: intelligent agents and AI, problem solving by search, constraint satisfaction, adversarial search, planning, probabilistic reasoning, decision-making under uncertainty, deep learning, reinforcement learning and applications.
+
+- **[Stanford CS221: Artificial Intelligence: Principles and Techniques ](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PL-myaKI4DslWQYFA9xuAuLIX3BEbIWN3Y&ab_channel=StanfordOnline)**\
+ **[Course Website](https://stanford-cs221.github.io/summer2023/)**
 
 ---
 
 ## <a name="notes"></a>Notes
 
 Review these comprehensive notes to reinforce your grasp :
+
+- Nice mini course in AI with Python : **[CS50's Introduction to Artificial Intelligence with Python 2023 ](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm)**
+This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation.
+
 
 ---
 
