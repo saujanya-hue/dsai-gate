@@ -66,7 +66,8 @@ Review these comprehensive notes to reinforce your grasp of Probability and Stat
 - **[Probability Review](https://www.cse.iitd.ac.in/~parags/teaching/col774/review/prob.pdf)**
   An guide that explains different types of probability distributions and covers pre-requisites for ML.
   From COL774: Machine Learning (IIT D) by Prof. [Parag Singla](https://www.cse.iitd.ac.in/~parags/teaching.html)
-
+- **[Multivariate Gaussians Review](https://www.cse.iitd.ac.in/~parags/teaching/col774/review/gaussians.pdf)**
+  From COL774: Machine Learning (IIT D) by Prof. [Parag Singla](https://www.cse.iitd.ac.in/~parags/teaching.html)- 
 ---
 
 ## <a name="articles"></a>Articles
