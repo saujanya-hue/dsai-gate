@@ -29,6 +29,9 @@ by Professor Mausam. The Course given covers almost everything. However, the cou
 **[Fundamentals of Artificial Intelligence, IIT Guwahti](https://www.youtube.com/playlist?list=PLwdnzlV3ogoXaceHrrFVZCJKbm_laSHcH)**
 The course is visibly more structured and a good course that can be used to prepare for the GATE Topics in Data Science and AI. The course even goes beyond the mere AI Topics that are in the syllabus, for example it touches on machine learning topics too
 
+**[Slides of "An Introduction to Artificial Intelligence Course, IIT Delhi" : Prof. Rohan Paul ](https://www.cse.iitd.ac.in/~rohanpaul/teaching/2022-col333.html)**
+by Prof. Rohan Paul. The course covers the foundational principles of artificial intelligence and is centered around the following themes: intelligent agents and AI, problem solving by search, constraint satisfaction, adversarial search, planning, probabilistic reasoning, decision-making under uncertainty, deep learning, reinforcement learning and applications. 
+
 ---
 
 ## <a name="notes"></a>Notes
