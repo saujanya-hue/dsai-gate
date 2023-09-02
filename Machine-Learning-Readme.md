@@ -59,6 +59,14 @@ Python 3 code to reproduce the figures in the books [Probabilistic Machine Learn
 
 Test your knowledge and skills with these practice problems:
 
+- [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2017 Final](DS-AI-GATE/dsai-gate/Data/Machine-Learning/final2017_solutions.pdf)
+- [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2018 Final](DS-AI-GATE/dsai-gate/Data/Machine-Learning/final2018_solutions.pdf)
+- [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2019 Final](DS-AI-GATE/dsai-gate/Data/Machine-Learning/final2019_solutions.pdf)
+- [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2022 Final](DS-AI-GATE/dsai-gate/Data/Machine-Learning/final2022_solutions.pdf)
+- [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2018 MidTerm](DS-AI-GATE/dsai-gate/Data/Machine-Learning/midterm2018_solutions.pdf)
+- [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2019 MidTerm](DS-AI-GATE/dsai-gate/Data/Machine-Learning/midterm2019_solutions.pdf)
+- [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2022 MidTerm](DS-AI-GATE/dsai-gate/Data/Machine-Learning/midterm2022_solutions.pdf)
+
 ---
 
 [<img src="https://github.com/trekhleb/homemade-machine-learning/blob/master/images/machine-learning-map.png">](https://github.com/trekhleb/homemade-machine-learning/blob/master/images/machine-learning-map.png)
