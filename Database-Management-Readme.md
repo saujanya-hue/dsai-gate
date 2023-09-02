@@ -34,8 +34,7 @@ Chapters 2,3, 5,6, 7.1,8,10,11,14,17,18
 Course to deepen your knowledge of Probability and Statistics:
 
 - **[Data Base Management System- IITKGP](https://www.youtube.com/playlist?list=PLIwC9bZ0rmjSkm1VRJROX4vP2YMIf4Ebh)** :NPTEL Course widely appreciated for DBMS
-- **[DBMS COURSE NPTEL covering both Data Mining and Data Warehousing Concepts](https://www.youtube.com/playlist?list=PL9426FE14B809CC41)** \ 
-Lecture Series on Database Management System by Prof.D.Janakiram, Department of Computer Science and Engineering,  IIT Madras / Dr. S. Srinath, IIIT Bangalore.
+- **[DBMS COURSE NPTEL covering both Data Mining and Data Warehousing Concepts](https://www.youtube.com/playlist?list=PL9426FE14B809CC41)**  Lecture Series on Database Management System by Prof.D.Janakiram, Department of Computer Science and Engineering,  IIT Madras  Dr. S. Srinath, IIIT Bangalore.
 
 ---
 
