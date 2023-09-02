@@ -82,6 +82,7 @@ Read insightful articles to gain additional insights:
 
 Test your knowledge and skills with these practice problems:
 
+- [**Previous Year Quesitons: CS188 Berkley**](https://tbp.berkeley.edu/courses/cs/188/) by Prof Peter Abeel
 - Previous year UGC NET CSE Questions - AI Topic
 - [**Practice Exercises: Previous year questions CS 188 with solutions to validate theoretical understanding**](https://inst.eecs.berkeley.edu/~cs188/fa18/final_exam_prep.html)
 
