@@ -12,7 +12,7 @@
 
 ## <a name="books"></a>Books
 
-Explore these recommended books to enhance your understanding of Probability and Statistics:
+Explore these recommended books to enhance your understanding:
 
 <!--
 - [**"All of Statistics: A Concise Course in Statistical Inference"**](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by  Larry Wasserman 
@@ -22,19 +22,22 @@ Explore these recommended books to enhance your understanding of Probability and
 
 ## <a name="course"></a>NPTEL and MOOCs Courses
 
-Course to deepen your knowledge of Probability and Statistics:
+Course to deepen your knowledge:
 
 ---
 
 ## <a name="notes"></a>Notes
 
-Review these comprehensive notes to reinforce your grasp of Probability and Statistics:
+Review these comprehensive notes to reinforce your grasp:
+
+- **[Stanford CS229 Lecture Notes](https://cs229.stanford.edu/main_notes.pdf)** sufficient to cover entire syllabus of Machine Learning \
+Repository contains the pdf notes :[download_here](/Data/Machine-Learning/main_notes.pdf)
 
 ---
 
 ## <a name="articles"></a>Articles
 
-Read insightful articles on Probability and Statistics to gain additional insights:
+Read insightful articles to gain additional insights:
 
 ---
 
