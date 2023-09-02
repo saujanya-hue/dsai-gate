@@ -47,7 +47,7 @@ Review these comprehensive notes to reinforce your grasp :
 
 Read insightful articles to gain additional insights:
 
-- CODING EXAMPLES : [**"Python Code for Artificial Intelligence: A Modern Approach, 4th Ed"**](https://github.com/aimacode/aima-python) by  by Stuart Russell and Peter Norvig
+- **Coding Examples** : [**"Python Code for Artificial Intelligence: A Modern Approach, 4th Ed"**](https://github.com/aimacode/aima-python) by  by Stuart Russell and Peter Norvig
  You can use this in conjunction with a course on AI, or for study on your own.
 
 ---
