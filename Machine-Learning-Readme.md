@@ -24,6 +24,11 @@ Explore these recommended books to enhance your understanding:
 
 Course to deepen your knowledge:
 
+- [**"Introduction to Machine Learning IIT Delhi"**](https://www.cse.iitd.ac.in/~parags/teaching/col774/) by  Prof [Parag Singla((IIT-D)](https://www.cse.iitd.ac.in/~parags/)
+  A comprehensive resource for ML theory, excellent coverage from GATE and Interviews perspective.
+
+- [**"Stanford CS229: Machine Learning Full Course taught by Andrew Ng"**](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&ab_channel=StanfordOnline) by  Prof Andrew NG (Stanford) \
+This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); 
 ---
 
 ## <a name="notes"></a>Notes
@@ -32,6 +37,7 @@ Review these comprehensive notes to reinforce your grasp:
 
 - **[Stanford CS229 Lecture Notes](https://cs229.stanford.edu/main_notes.pdf)** sufficient to cover entire syllabus of Machine Learning \
 Repository contains the pdf notes :[download_here](/Data/Machine-Learning/main_notes.pdf)
+- **[CMU Machine Learning Notes](https://www.cs.cmu.edu/~hn1/documents/machine-learning/notes.pdf)** by Huy NguyenPhD Student, Human-Computer Interaction Institute, Carnegie Mellon University \
 
 ---
 
