@@ -31,7 +31,7 @@ Chapters 2,3, 5,6, 7.1,8,10,11,14,17,18
 
 ## <a name="course"></a>NPTEL and MOOCs Courses
 
-Course to deepen your knowledge of Probability and Statistics:
+Course to deepen your knowledge:
 
 - **[Data Base Management System- IITKGP](https://www.youtube.com/playlist?list=PLIwC9bZ0rmjSkm1VRJROX4vP2YMIf4Ebh)** :NPTEL Course widely appreciated for DBMS
 - **[DBMS COURSE NPTEL covering both Data Mining and Data Warehousing Concepts](https://www.youtube.com/playlist?list=PL9426FE14B809CC41)**  Lecture Series on Database Management System by Prof.D.Janakiram, Department of Computer Science and Engineering,  IIT Madras  Dr. S. Srinath, IIIT Bangalore.
@@ -40,13 +40,13 @@ Course to deepen your knowledge of Probability and Statistics:
 
 ## <a name="notes"></a>Notes
 
-Review these comprehensive notes to reinforce your grasp of Probability and Statistics:
+Review these comprehensive notes to reinforce your grasp:
 
 ---
 
 ## <a name="articles"></a>Articles
 
-Read insightful articles on Probability and Statistics to gain additional insights:
+Read insightful articles to gain additional insights:
 
 ---
 
