@@ -54,6 +54,15 @@ Read insightful articles to gain additional insights:
 
 Test your knowledge and skills with these practice problems:
 
+   * [Programming in Python](https://www.hackerrank.com/domains/python)
+   * [Stack](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=stacks)
+   * [Queue](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=queues)
+   * [Linked-List](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists)
+   * [Trees](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=trees)
+   * [Searching](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=search)
+   * [Sorting](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=arrays-and-sorting)
+   * [Graph](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=graph-theory&filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bdifficulty%5D%5B%5D=medium)
+
 ---
 
 #### <a name="table-of-contents"></a>Table of Contents
