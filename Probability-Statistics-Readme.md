@@ -89,11 +89,4 @@ Test your knowledge and skills with these practice problems:
 
 ---
 
-#### <a name="table-of-contents"></a>Table of Contents
-
-* [Books](#books)  
-* [NPTEL and MOOCs Courses](#course)  
-* [Notes](#notes)  
-* [Articles](#articles)  
-* [Practice Problems](#practice-problems)
 
