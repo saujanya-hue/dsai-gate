@@ -1,6 +1,6 @@
 # Probability-Statistics
 
-[Table of Contents](#table-of-contents)  
+[Table of Contents]  
 * [Books](#books)  
 * [NPTEL and MOOCs Courses](#course)  
 * [Notes](#notes)  
