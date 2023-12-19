@@ -490,6 +490,9 @@ Check out the complete GATE 2024 DA Exam Pattern in the table outlined below.
 
 ---
 
+### Sample Paper
+
+IISC released a DS/AI sample paper on their website. It's expected the questions in the main exams would be on similar lines [Sample Paper](https://gate2024.iisc.ac.in/wp-content/uploads/2023/11/GATE2024DASampleQuestionPaperFinal.pdf)
 
 
 ### Tasks 
