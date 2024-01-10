@@ -84,6 +84,7 @@ Test your knowledge and skills with these practice problems:
 - [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2018 MidTerm](/Data/Machine-Learning/midterm2018_solutions.pdf)
 - [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2019 MidTerm](/Data/Machine-Learning/midterm2019_solutions.pdf)
 - [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2022 MidTerm](/Data/Machine-Learning/midterm2022_solutions.pdf)
+- [Regression problems from IIT Dharwad EE 405: Patter Recognition and Machine Learning](/Data/Machine-Learning/python-practice-problems/regression)
 
 ---
 
