@@ -20,7 +20,7 @@ Explore these recommended books to enhance your understanding:
   A comprehensive resource for statistical theory and its applications.
 -->
 
-- **[Algorithm Design : Jon Kleinberg and Eva Tardos](https://web.cs.ucla.edu/~srinath/static/pdfs/AlgorithmDesign_%20EvaTardos.pdf)** \
+- **[Algorithm Design : Jon Kleinberg and Eva Tardos](https://github.com/aforarup/interview/blob/master/Data%20Structures%20and%20Algorithm/Algorithm%20Books/Algorithm%20Design%20by%20Jon%20Kleinberg,%20Eva%20Tardos.pdf)** \
 Undergraduate level course book covering basic algorithms, sufficient to prepare GATE and interviews.
 - **[Data Structures & Algorithms in Python](https://ptgmedia.pearsoncmg.com/images/9780134855684/samplepages/9780134855684_Sample.pdf)**\
   A comprehensive book with Authors from MIT and Maryland covering the syllabus of undergraduate data structures and algorithms with emphasis on Python
