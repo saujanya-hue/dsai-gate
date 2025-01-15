@@ -45,11 +45,11 @@ Course to deepen your knowledge:
 
 Review these comprehensive notes to reinforce your grasp :
 
-- [**Short Notes Linear Algebra by Prof. Gilbert Strang**](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/13c014d45cb504519389d6640e673ba4_ZoomNotes_18-010.pdf)
+- [**Short Notes Linear Algebra by Prof. Gilbert Strang**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/4d876a9159e32543eb0d73b4d4382f4c_MIT18_06S10ZoomNotes.pdf)
 ZOOMNOTES FOR LINEAR ALGEBRA : GILBERT STRANG Massachusetts Institute of Technology
 
 
-- **[Linear Algebra Review for Machine Learning ](https://www.cse.iitd.ac.in/~parags/teaching/col774/review/linalg.pdf)**
+- **[Linear Algebra Review for Machine Learning ](https://www.cse.iitd.ac.in/~parags/teaching/2022/col774/review/linalg.pdf)**
   From COL774: Machine Learning (IIT D) by Prof. [Parag Singla](https://www.cse.iitd.ac.in/~parags/teaching.html)
 
 
