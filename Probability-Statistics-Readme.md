@@ -3,7 +3,8 @@
 Table of Contents
 * [Books](#books)  
 * [NPTEL and MOOCs Courses](#course)  
-* [Notes](#notes)  
+* [Notes](#notes)
+* [Concept Visualisation](#concept-visualisation)
 * [Articles](#articles)  
 * [Practice Problems](#practice-problems)
 
@@ -69,6 +70,12 @@ Review these comprehensive notes to reinforce your grasp of Probability and Stat
 - **[Multivariate Gaussians Review](https://www.cse.iitd.ac.in/~parags/teaching/col774/review/gaussians.pdf)**
   From COL774: Machine Learning (IIT D) by Prof. [Parag Singla](https://www.cse.iitd.ac.in/~parags/teaching.html)
 ---
+## <a name="concept-visualisation"></a>Concept Visualisation
+For the visual learners:
+- **[Central Limit Theorem : 3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDOMxJDswBaLu8xBMKxSTvg8&si=w_JVqrbbRgNmj3vF)**
+  Why and how of the "Central Limit Theorem" through intuition and visualisation.
+- **[Bayes Theorem: 3Blue1Brown](https://youtu.be/HZGCoVF3YvM?si=rauaOIif9cgXXgJl)**
+  Intuitive understanding of Bayes Theorem, the foundation for Bayesian Statistics.
 
 ## <a name="articles"></a>Articles
 
@@ -76,7 +83,7 @@ Read insightful articles on Probability and Statistics to gain additional insigh
 
 - **[Probability and Statistics : Geeks For Geeks](https://www.geeksforgeeks.org/probability-theory/)**
   Detailed articles covering fundamental concepts, formulas, and examples.
-
+  
 ---
 
 ## <a name="practice-problems"></a>Practice Problems
@@ -89,4 +96,13 @@ Test your knowledge and skills with these practice problems:
 
 ---
 
+<<<<<<< main
+#### <a name="table-of-contents"></a>Table of Contents
 
+* [Books](#books)  
+* [NPTEL and MOOCs Courses](#course)  
+* [Notes](#notes)
+* [Concept Visualisation](#concept-visualisation)
+* [Articles](#articles)  
+* [Practice Problems](#practice-problems)
+=======
