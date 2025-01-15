@@ -126,7 +126,7 @@ This repository is a collaborative effort, and we welcome contributions from the
 Calling Data Science & AI folks!
 
 Join the team as official contributor for DSAI-GATE prep resource. Elevate your expertise by contributing to this repository. \
-Your knowledge or years of industry experience is invaluable. Claim your spot now: Contribute to DSAI-GATE. Let's shape the future of GATE prep together! 💼📚 #DSAI #GATE2024
+Your knowledge or years of industry experience is invaluable. Claim your spot now: Contribute to DSAI-GATE. Let's shape the future of GATE prep together! 💼📚 #DSAI #GATE
 
 link for interested contributor --> [Registeration-form](https://forms.gle/MrTQdBaPXFhpn1NN9) 
 
@@ -195,7 +195,7 @@ Stay connected with us for updates, announcements, and discussions:
 
 ---
   
-## GATE 2024 Data Science and AI Syllabus
+## GATE Data Science and AI Syllabus
 <div class="table-responsive">
 
 <table class="table table-bordered table-striped" cellspacing="0" cellpadding="5">
@@ -204,7 +204,7 @@ Stay connected with us for updates, announcements, and discussions:
 
 <tr>
 
-<td colspan="2" style="background-color: lightblue;">GATE 2024 Data Science and AI Syllabus</td>
+<td colspan="2" style="background-color: lightblue;">GATE Data Science and AI Syllabus</td>
 
 </tr>
 
@@ -391,11 +391,11 @@ Stay connected with us for updates, announcements, and discussions:
 
 ---
 
-## <a name="GATE_2024_Data_3">GATE 2024 Data Science and AI Exam Pattern</a>
+## <a name="GATE_2024_Data_3">GATE Data Science and AI Exam Pattern</a>
 
-The GATE 2024 Data Science and AI exam pattern will carry a total of 100 marks. The paper will be divided into two sections, General Aptitude and Data Science and AI Subject Questions, worth 15 and 85 marks, respectively.
+The GATE Data Science and AI exam pattern will carry a total of 100 marks. The paper will be divided into two sections, General Aptitude and Data Science and AI Subject Questions, worth 15 and 85 marks, respectively.
 
-Check out the complete GATE 2024 DA Exam Pattern in the table outlined below.
+Check out the complete GATE DA Exam Pattern in the table outlined below.
 
 <div class="table-responsive">
 
@@ -405,7 +405,7 @@ Check out the complete GATE 2024 DA Exam Pattern in the table outlined below.
 
 <tr>
 
-<td colspan="2" style="background-color: lightblue;">GATE 2024 DA Exam Pattern</td>
+<td colspan="2" style="background-color: lightblue;">GATE DA Exam Pattern</td>
 
 </tr>
 
