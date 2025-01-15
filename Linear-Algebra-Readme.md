@@ -37,7 +37,7 @@ Course to deepen your knowledge:
  
 
 - [**"OCW MIT : Linear Algebra by Gilbert Strang"**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/) : Linear Algebra Course MIT
-- [**"Linear Algebra Course at Khan Acadmey"**](https://www.khanacademy.org/math/linear-algebra) : Khan Academy Course 
+- [**"Linear Algebra Course at Khan Acadeyy"**](https://www.khanacademy.org/math/linear-algebra) : Khan Academy Course 
 
 ---
 
