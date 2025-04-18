@@ -14,7 +14,7 @@
 
 MLOPs Roadmap:https://roadmap.sh/mlops
 
-![MLOps Roadmap](Data/Interview/MLOPs/mlops_page-0001.jpg)
+![MLOps Roadmap](https://github.com/DS-AI-GATE/dsai-gate/blob/main/Data/Interview/MLOPs/mlops_page-0001.jpg)
 
 
 ## <a name="books"></a>Books
