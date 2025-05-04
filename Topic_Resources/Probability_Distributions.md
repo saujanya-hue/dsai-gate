@@ -1,6 +1,6 @@
 # 📘 Probability & Statistics – Topic-Wise Guide
 
-## 📊 Probability Distributions
+## 📊 Probability Distributions (Under preparation)
 
 ### 🔑 Key Concepts
 
