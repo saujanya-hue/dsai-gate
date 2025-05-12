@@ -489,6 +489,11 @@ Check out the complete GATE DA Exam Pattern in the table outlined below.
 </table>
 
 ---
+### Useful collections:
+
+- [Achint Chaudhary's concise gist of resouces](https://gist.github.com/chaudharyachint08/481a4fbb5e699340fb8849d1cacdcdf9)
+- [2025 DS AI GATE Question Paper](https://gate2025.iitr.ac.in/doc/2025/2025_QP/DA.pdf)
+---
 
 ### Sample Paper
 
