@@ -1,29 +1,79 @@
+# 📘 Machine Learning – Topic-Wise Guide
 
-### ML fundamentals
-* [Collinearity](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/) and [read more](https://www.youtube.com/watch?v=Cba9LJ9lS8s)
-* [Features scaling](https://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
-* [Random forest vs GBDT](https://medium.com/@aravanshad/gradient-boosting-versus-random-forest-cfa3fa8f0d80)
-* [SMOTE synthetic minority over-sampling technique](https://arxiv.org/pdf/1106.1813.pdf)
-* [Compare discriminative vs generative model](https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3) and [extra read](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
-* [Logistic regression](https://www.youtube.com/watch?v=-la3q9d7AKQ). Try to implement logistic regression from scratch. Bonus point for vectorized version in numpy + completed in 20 minutes [sample code from martinpella](sample/logistic_regression.ipynb). Followup with MapReduce version. 
-* [Quantile regression](https://www.youtube.com/watch?v=s203ScTy4xQ&t=954s)
-* [L1/L2 intuition](https://www.linkedin.com/pulse/intuitive-visual-explanation-differences-between-l1-l2-xiaoli-chen/)
-* [Decision tree and Random Forest fundamental](https://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture11.pdf)
-* [Explain boosting](https://web.stanford.edu/~hastie/TALKS/boost.pdf)
-* [Least Square as Maximum Likelihood Estimator](https://www.youtube.com/watch?v=_-Gnu498s3o)
-* [Maximum Likelihood Estimator introduction](https://www.youtube.com/watch?v=WflqTUOvdik&t=15s)
-* [Kmeans](https://stanford.edu/~cpiech/cs221/handouts/kmeans.html). Try to implement Kmeans from scratch [sample code from flothesof.github.io](sample/kmeans.ipynb). Bonus point for vectorized version in numpy + completed in 20 minutes. Follow-up with worst case time complexity and improvement for [initialization](extra.md).
-* Fundamentals about [PCA](http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
-* I didn't use [flashcard](https://machinelearningflashcards.com/) but I'm sure it helps up to certain extend.
-* [Eigen Values and Eigen Vectors Visualized](https://setosa.io/ev/eigenvectors-and-eigenvalues/)
-* [Singular Value Decomposition](https://gregorygundersen.com/blog/2018/12/10/svd/)
-* [KL-Divergence Explained :  KLD is an idea that you will run into often in your ML journey](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
-* [what is cross entropy? ](https://colah.github.io/posts/2015-09-Visual-Information/)
+### 📚 Resources
 
+Reference : https://github.com/khangich/machine-learning-interview/tree/master
 
+* **Multicollinearity:**
+  [Statistics by Jim](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/) | [YouTube](https://www.youtube.com/watch?v=Cba9LJ9lS8s)
 
-### Interview Experiences and Questions 
+* **Feature Scaling:**
+  [Sebastian Raschka Blog](https://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
 
-https://gateoverflow.in/blog/14429/iit-bombay-%26-delhi-ms-interview-experience-minds-%26-cminds
-https://www.reddit.com/r/GATEtard/comments/1kfakyn/iit_indore_msr_interview_experience/
-https://gateoverflow.in/blog/15907/iit-delhi-masters-research-ai-experience
+* **Random Forest vs GBDT:**
+  [Medium Comparison Article](https://medium.com/@aravanshad/gradient-boosting-versus-random-forest-cfa3fa8f0d80)
+
+* **SMOTE (Synthetic Minority Over-sampling Technique):**
+  [Original Paper – Arxiv](https://arxiv.org/pdf/1106.1813.pdf)
+
+* **Discriminative vs Generative Models:**
+  [Medium Article](https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3)
+  [Stanford Paper by Ng & Jordan](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
+
+* **Logistic Regression:**
+  [YouTube – Coding Explained](https://www.youtube.com/watch?v=-la3q9d7AKQ)
+  *📝 Try implementing from scratch in NumPy – bonus for vectorized version and a MapReduce variant!*
+  Sample Code: [`logistic_regression.ipynb`](https://github.com/khangich/machine-learning-interview/blob/master/sample/logistic_regression.ipynb)
+
+* **Quantile Regression:**
+  [YouTube Lecture](https://www.youtube.com/watch?v=s203ScTy4xQ&t=954s)
+
+* **L1/L2 Regularization Intuition:**
+  [LinkedIn Visual Intuition](https://www.linkedin.com/pulse/intuitive-visual-explanation-differences-between-l1-l2-xiaoli-chen/)
+
+* **Decision Trees & Random Forests:**
+  [MIT Slides](https://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture11.pdf)
+
+* **Boosting Fundamentals:**
+  [Stanford Slides by Hastie](https://web.stanford.edu/~hastie/TALKS/boost.pdf)
+
+* **Least Squares as MLE:**
+  [YouTube Video](https://www.youtube.com/watch?v=_-Gnu498s3o)
+
+* **MLE Introduction:**
+  [YouTube Lecture](https://www.youtube.com/watch?v=WflqTUOvdik&t=15s)
+
+* **K-Means Clustering:**
+  [Stanford Notes](https://stanford.edu/~cpiech/cs221/handouts/kmeans.html)
+  Sample Code: [`kmeans.ipynb`](https://github.com/khangich/machine-learning-interview/blob/master/sample/kmeans.ipynb)
+  *📝 Implement from scratch – optimize initialization (e.g., k-means++).*
+
+* **PCA Intuition:**
+  [Neuronal Blog – PCA Explained](http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
+
+* **Eigenvectors & Eigenvalues Visualization:**
+  [Setosa.io](https://setosa.io/ev/eigenvectors-and-eigenvalues/)
+
+* **SVD (Singular Value Decomposition):**
+  [Gregory Gundersen Blog](https://gregorygundersen.com/blog/2018/12/10/svd/)
+
+* **KL-Divergence:**
+  [CountBayesie Blog](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
+
+* **Cross Entropy:**
+  [Colah’s Blog](https://colah.github.io/posts/2015-09-Visual-Information/)
+
+* **Cheatsheet:**
+  [ML Flashcards](https://machinelearningflashcards.com/) – optional but useful for quick revision.
+
+---
+
+## 🎓 Interview Experiences
+
+### 🧑‍🏫 IIT MSR/AI Program Insights
+
+* [IIT Bombay & Delhi (MS – MINDS & CMInDS) Experience](https://gateoverflow.in/blog/14429/iit-bombay-%26-delhi-ms-interview-experience-minds-%26-cminds)
+* [IIT Indore MSR Experience (Reddit)](https://www.reddit.com/r/GATEtard/comments/1kfakyn/iit_indore_msr_interview_experience/)
+* [IIT Delhi MSR AI Interview Blog](https://gateoverflow.in/blog/15907/iit-delhi-masters-research-ai-experience)
+
+---
