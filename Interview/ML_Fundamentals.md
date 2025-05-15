@@ -15,6 +15,12 @@
 * [Kmeans](https://stanford.edu/~cpiech/cs221/handouts/kmeans.html). Try to implement Kmeans from scratch [sample code from flothesof.github.io](sample/kmeans.ipynb). Bonus point for vectorized version in numpy + completed in 20 minutes. Follow-up with worst case time complexity and improvement for [initialization](extra.md).
 * Fundamentals about [PCA](http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
 * I didn't use [flashcard](https://machinelearningflashcards.com/) but I'm sure it helps up to certain extend.
+* [Eigen Values and Eigen Vectors Visualized](https://setosa.io/ev/eigenvectors-and-eigenvalues/)
+* [Singular Value Decomposition](https://gregorygundersen.com/blog/2018/12/10/svd/)
+* [KL-Divergence Explained :  KLD is an idea that you will run into often in your ML journey](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
+* [what is cross entropy? ](https://colah.github.io/posts/2015-09-Visual-Information/)
+
+
 
 ### Interview Experiences and Questions 
 
