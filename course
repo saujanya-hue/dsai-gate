@@ -1,0 +1,170 @@
+Great to hear you’re gearing up for **GATE 2027 in Data Science & AI (DA)**! Here's a clear, detailed breakdown of all the subjects and the topics you should cover to build a solid foundation.
+
+---
+
+## GATE DA Subjects & Topics
+
+Based on the *official syllabus* from IIT Roorkee and corroborated by multiple sources, **GATE DA** covers the following **7 core subjects**, along with **General Aptitude**:
+
+1. **Probability & Statistics**
+2. **Linear Algebra**
+3. **Calculus & Optimization**
+4. **Programming, Data Structures & Algorithms (DSA)**
+5. **Database Management & Warehousing**
+6. **Machine Learning**
+7. **Artificial Intelligence (AI)**
+8. **General Aptitude** (Verbal + Numerical)
+
+The total exam is 100 marks (85 for core + 15 for General Aptitude), comprising roughly **65 questions**. ([MADE EASY BLOG][1], [GeeksforGeeks][2])
+
+---
+
+### 1. General Aptitude
+
+* Verbal Ability and Numerical Reasoning (typical competitive exam skillset).
+
+---
+
+### 2. Probability & Statistics
+
+* Permutations & Combinations
+* Axioms of probability, sample space, events, conditional & joint probability, Bayes' theorem
+* Expectation, variance, mean/median/mode, correlation, covariance
+* Distributions: uniform, Bernoulli, binomial, exponential, Poisson, normal, t‑distribution, chi‑square
+* Central Limit Theorem, confidence intervals, z‑test, t‑test, chi‑square test ([Jagranjosh.com][3], [Engineering Careers 360][4], [Analytics Vidhya][5])
+
+---
+
+### 3. Linear Algebra
+
+* Vector spaces, subspaces, linear independence/dependence
+* Matrices and their properties: projection, orthogonal, idempotent, partition
+* Quadratic forms, eigenvalues & eigenvectors, determinant, rank, nullity
+* Systems of linear equations, Gaussian elimination, projections, LU decomposition, SVD ([Jagranjosh.com][3], [Engineering Careers 360][4], [Analytics Vidhya][5])
+
+---
+
+### 4. Calculus & Optimization
+
+* Single-variable functions, limits, continuity, differentiability
+* Taylor series, maxima & minima
+* Optimization techniques involving a single variable (gradient concepts implied) ([Jagranjosh.com][3], [Engineering Careers 360][4], [Analytics Vidhya][5])
+
+---
+
+### 5. Programming, Data Structures & Algorithms
+
+* Python programming fundamentals
+* Basic data structures: stacks, queues, linked lists, trees, hash tables
+* Search: linear & binary search
+* Sorting: selection, bubble, insertion; divide-and-conquer: merge sort, quicksort
+* Graph theory basics: traversals (BFS, DFS), shortest path algorithms ([Engineering Careers 360][4], [Analytics Vidhya][5], [Maths Care][6])
+
+---
+
+### 6. Database Management & Warehousing
+
+* ER model, relational model, relational algebra, tuple calculus
+* SQL, integrity constraints, normalization, file organization, indexing
+* Data transformation: normalization, discretization, sampling, compression
+* Data warehouse modeling: multidimensional schemas, concept hierarchies, measures ([Engineering Careers 360][4], [Analytics Vidhya][5], [Maths Care][6])
+
+---
+
+### 7. Machine Learning
+
+**Supervised Learning**
+
+* Regression: simple, multiple, ridge
+* Classification: logistic regression, k-NN, naive Bayes, LDA, SVM, decision trees
+* Neural networks: multilayer perceptron, feedforward networks
+* Bias–variance tradeoff, cross-validation methods (LOO, k-fold)
+
+**Unsupervised Learning**
+
+* Clustering: k-means, k-medoids, hierarchical (top-down & bottom-up)
+* Dimensionality reduction: PCA ([Engineering Careers 360][4], [Analytics Vidhya][5], [Maths Care][6])
+
+---
+
+### 8. Artificial Intelligence
+
+* Search algorithms: informed, uninformed, adversarial search
+* Logic: propositional and predicate logic
+* Reasoning under uncertainty: conditional independence, exact inference (variable elimination), approximate inference (sampling) ([Engineering Careers 360][4], [Analytics Vidhya][5], [Maths Care][6])
+
+---
+
+### Estimated Weightage (per GATE 2025/2026 trends)
+
+| Subject                                                                                        | Questions | Marks   |
+| ---------------------------------------------------------------------------------------------- | --------- | ------- |
+| General Aptitude                                                                               | 10        | 15      |
+| Probability & Statistics                                                                       | 10        | 16      |
+| Linear Algebra                                                                                 | 6         | 10      |
+| Calculus & Optimization                                                                        | 5         | 8       |
+| Programming, DSA                                                                               | 13        | 21      |
+| Database Management & Warehousing                                                              | 6         | 8       |
+| Machine Learning                                                                               | 8         | 11      |
+| Artificial Intelligence                                                                        | 7         | 11      |
+| **Total**                                                                                      | **65**    | **100** |
+| ([MADE EASY BLOG][1], [GeeksforGeeks][2], [Engineering Careers 360][4], [Analytics Vidhya][5]) |           |         |
+
+---
+
+## Summary Table
+
+| Subject                  | Key Topics Covered                                       |
+| ------------------------ | -------------------------------------------------------- |
+| General Aptitude         | Verbal & numerical reasoning                             |
+| Probability & Statistics | Probability, distributions, hypothesis testing           |
+| Linear Algebra           | Matrices, decompositions, eigen concepts                 |
+| Calculus & Optimization  | Differentiation, Taylor series, maxima/minima            |
+| Programming, DSA         | Python, arrays, trees, graphs, sorting/searching         |
+| DBMS & Warehousing       | ER model, SQL, normalization, OLAP, ETL                  |
+| Machine Learning         | Regression, classification, clustering, PCA, neural nets |
+| AI                       | Search strategies, logic, probabilistic inference        |
+
+---
+
+## Resources (Recommendations from experts & aspirants)
+
+* **Probability & Statistics**: Ross or Harvard’s Stat 110
+* **Linear Algebra**: Gilbert Strang’s lectures
+* **Machine Learning**: *Pattern Recognition and Machine Learning* by Bishop
+* **Artificial Intelligence**: *Artificial Intelligence: A Modern Approach* by Russell & Norvig
+* **General References**:
+
+  * GATE DA Notes, 100 Days Guide on GATE DA
+  * Python for Data Structures (e.g. "Data Structures and Algorithms Made Easy" by Karumanchi)
+  * DBMS: "Database System Concepts" by Silberschatz, Korth & Sudarshan
+    ([GeeksforGeeks][7], [Reddit][8])
+
+Plus, there’s a helpful GitHub repo compiled by master’s/PhD students for GATE DA resources:
+
+> “I and few of my friends who are doing masters or phd in IITS created a resources list for GATE DA ...” ([Reddit][9])
+
+---
+
+## Next Steps for You
+
+1. **Download the official syllabus PDF** from IIT Roorkee / GATE portal to refer to exact topic lists.
+2. **Make a structured study plan**:
+
+   * Divide topics by months/weeks
+   * Focus on high-weightage areas first
+3. **Use topic-wise PYQs and mocks** to track progress.
+4. **Revisit challenging topics monthly**, especially areas like probability distributions, ML algorithms, and reasoning under uncertainty.
+5. **Join forums, study groups, or note-sharing communities** to stay motivated and clarify doubts.
+
+Would you like help creating a **weekly study schedule** or a **notion template** for tracking your preparation across these topics? Just let me know!
+
+[1]: https://blog.madeeasy.in/gate-da-subject-wise-weightage?utm_source=chatgpt.com "GATE DA (Data Science and AI) Subject Wise Weightage"
+[2]: https://www.geeksforgeeks.org/gate/gate-da-and-ai-subject-wise-weightage/?utm_source=chatgpt.com "GATE DA (Data Science and AI) Subject Wise Weightage 2025 - GeeksforGeeks"
+[3]: https://www.jagranjosh.com/articles/gate-da-important-topics-with-weightage-1738836846-1?utm_source=chatgpt.com "GATE DA 2025 Important Topics: Data Science and AI Topic Wise Weightage with Scoring Chapters"
+[4]: https://engineering.careers360.com/articles/gate-data-science-and-ai-syllabus?utm_source=chatgpt.com "GATE DA Syllabus 2026 PDF - Data Science and AI Important Topics"
+[5]: https://www.analyticsvidhya.com/blog/2024/11/gate-da/?utm_source=chatgpt.com "GATE DA 2025: Exam Dates, Syllabus and More - Analytics Vidhya"
+[6]: https://www.mathscare.com/blog/gate-da-syllabus-2025-pdf-download/?utm_source=chatgpt.com "GATE DA Syllabus 2025 PDF: Download Streamwise Topics - MathsCare"
+[7]: https://www.geeksforgeeks.org/gate/gate-da-subject-wise-preparation-tips/?utm_source=chatgpt.com "GATE DA Subject-wise Preparation Tips - GeeksforGeeks"
+[8]: https://www.reddit.com/r/GATEtard/comments/1itoz11?utm_source=chatgpt.com "What are some good books to study Artificial Intelligence for GATE DA ?"
+[9]: https://www.reddit.com/r/GATEtard/comments/19374fg?utm_source=chatgpt.com "GATE DA Full Resources"
